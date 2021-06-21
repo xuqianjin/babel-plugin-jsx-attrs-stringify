@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-jsx-attrs-to-string",
+  "name": "babel-plugin-jsx-attrs-stringify",
   "description": "Babel plugin which transforms attributes in JSX.",
   "version": "1.0.0",
   "main": "lib/index.js",
@@ -18,6 +18,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuqianjin/babel-plugin-jsx-attrs-to-string.git"
+    "url": "https://github.com/xuqianjin/babel-plugin-jsx-attrs-stringify"
   }
 }
