@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    [
+      "../../../lib",
+      {
+        "attr": ["data-bb"]
+      }
+    ]
+  ],
+  "presets": ["react"]
+}
