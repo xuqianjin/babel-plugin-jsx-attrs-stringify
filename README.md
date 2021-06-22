@@ -26,7 +26,7 @@ Install the plugin:
 npm install --save-dev babel-plugin-jsx-attrs-stringify
 ```
 
-Then edit your `.babelrc` to include `jsx-attrs`:
+Then edit your `.babelrc` to include `jsx-attrs-stringify`:
 
 ```json
 {
